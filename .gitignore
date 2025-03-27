@@ -35,7 +35,8 @@ application-prod.properties
 application-test.properties
 bootstrap.properties
 bootstrap.yml
-.env.prod
+*.env.prod
+*.prod
 
 # OS-specific files
 Thumbs.db
